@@ -1,0 +1,39 @@
+.travel_mainDiv { 
+    border: 5px solid red;
+    padding-right: 0px;
+    padding-left: 0px;
+    float: none;
+}
+
+.travel_mainDiv img {
+    width:100p%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+#debate{
+    height: 200px;
+    width: 100%;
+}
+h2{
+    text-align: left;
+}
+
+.news{
+border: 5px solid red;
+}
+.lab{
+    border: 5px solid red;
+}
+.comp{
+    border: 5px solid red;
+}
+.contact{
+    border: 5px solid red;
+}
